@@ -13,9 +13,4 @@ I am a passionate full stack web developer with expertise in both front-end and 
 
 ## Projects
 
-### Project 1: [Project Name]
-**Description**: Brief description of the project highlighting its purpose and key features.
-
-**Technologies Used**: React, Express, MongoDB
-
-**Link**: [Project URL]
+**check my projects in repositories**
