@@ -1,17 +1,14 @@
-# Data Science & AI Enthusiast 👨‍💻📊🤖
+Full Stack Web Developer Portfolio
 
-Welcome to my GitHub repository! I'm Malik Attiq, a passionate Data Science and AI enthusiast. Here, you'll find a collection of projects that reflect my journey in exploring, analyzing, and innovating with data.
+Welcome to my GitHub repository! This repository showcases my skills and projects as a full stack web developer. I specialize in using React, Next.js, Express, and Django frameworks to create dynamic and responsive web applications.
+About Me
 
-## About Me
+I am a passionate full stack web developer with expertise in both front-end and back-end technologies. With a keen eye for detail and a commitment to creating high-quality software, I strive to deliver robust and user-friendly applications.
+Skills
 
-I'm deeply curious about the world of data and its potential to transform industries. From predictive modeling to uncovering insights, my goal is to harness the power of data to drive informed decisions and create meaningful impact.
-
-## Skills
-
-- **Data Analysis:** Proficient in exploratory data analysis and visualization techniques.
-- **Machine Learning:** Experienced in building and deploying ML models for predictive tasks.
-- **Deep Learning:** Familiar with neural networks, CNNs, RNNs, and transfer learning.
-- **Data Preprocessing:** Skilled in cleaning, transforming, and preparing data for analysis.
-- **Model Evaluation:** Strong understanding of various metrics and evaluation techniques.
+    Frontend: React.js, HTML, CSS, JavaScript
+    Backend: Express.js, Django
+    Database: MongoDB, PostgreSQL, MySQL
+    Other: RESTful APIs, Git, Docker
 
 ## Let's Connect
